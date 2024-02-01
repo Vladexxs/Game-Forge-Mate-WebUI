@@ -18,5 +18,5 @@
 - Javascript
 
 ## Members
-Gürkan Karadaş [@imacapella](https://github.com/imacapella)
-Mert Yılmazer  [@Vladexxs](https://github.com/Vladexxs)
+- Gürkan Karadaş [@imacapella](https://github.com/imacapella)
+- Mert Yılmazer  [@Vladexxs](https://github.com/Vladexxs)
