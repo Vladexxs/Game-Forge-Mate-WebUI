@@ -1,15 +1,15 @@
 # Game-Forge-Mate-WebUI
  Alternative Game Forge Mate UI
  ### Home
-![GameForgeMate](imagesforeadme/home)
+![GameForgeMate](imagesforeadme/home.png)
 ### Games And Links
-![GameForgeMate](imagesforeadme/gamesandlinks)
+![GameForgeMate](imagesforeadme/gamesandlinks.png)
 ### Guides
-![GameForgeMate](imagesforeadme/guides)
+![GameForgeMate](imagesforeadme/guides.png)
 ### Cards
-![GameForgeMate](imagesforeadme/cards)
+![GameForgeMate](imagesforeadme/cards.png)
 ### Card
-![GameForgeMate](imagesforeadme/card)
+![GameForgeMate](imagesforeadme/card.png)
 
 ## Technologies Used
 
